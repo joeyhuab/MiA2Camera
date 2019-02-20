@@ -1,0 +1,7 @@
+id=MiA1Camera
+name=Mi A1 Stock Camera app for custom ROMs
+version=v1.1
+versionCode=110
+author=Joey Huab
+description=Stock camera app for Mi A1 custom ROMs.
+minMagisk=17000
