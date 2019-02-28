@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "    Mi A1 Stock Camera port    "
+  ui_print "    Mi A2 Stock Camera port    "
   ui_print "*******************************"
 }
 

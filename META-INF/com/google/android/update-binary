@@ -94,6 +94,12 @@ ui_print "******************************"
 # Install
 ##########################################################################################
 
+brand="$(grep_prop ro.product.brand)"
+if [ "$brand" != "Xiaomi" ]; then
+  echo "! $brand is not supported"
+  exit 1
+fi
+
 # Get the variable reqSizeM. Use your own method to determine reqSizeM if needed
 request_zip_size_check "$ZIP"
 
