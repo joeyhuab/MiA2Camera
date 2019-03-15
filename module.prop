@@ -1,7 +1,7 @@
 id=MiA2Camera
 name=Mi A2 stock Camera app for custom ROMs
 version=v2
-versionCode=2
+versionCode=200
 author=Joey Huab
 description=Mi A2's stock camera app for custom ROMs.
 minMagisk=17000
