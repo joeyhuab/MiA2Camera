@@ -18,6 +18,9 @@ Magisk flashable of Xiaomi Mi A2's stock camera app for most Xiaomi devices.
 * Works on most Xiaomi devices
 
 ## Changelog
+### v2
+* Fix app crashes completely
+
 ### v1
 * Re-release
 
