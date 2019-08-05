@@ -11,8 +11,3 @@ persist.camera.stats.test=5
 #properties for limiting preview size in camera
 persist.vendor.camera.display.umax=1920x1080
 persist.vendor.camera.display.lmax=1280x720
-
-#expose aux camera for below packages
-vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,com.dual.GCam,com.Tele.GCam
-#merge by yaoshaorong for Expose aux camera from D2AO for packagelist can't more than 91 byte
-vendor.camera.aux.packagelist2=com.android.systemui,com.huaqin.cameraautotest,com.huaqin.runtime

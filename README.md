@@ -4,9 +4,6 @@ Magisk flashable of Xiaomi Mi A2's stock camera app for most Xiaomi devices.
 ## Reminders
 * Some features may not work properly.
 
-## Requirements for Mi A1 users
-* [Flex's stock cam HAL patch](https://forum.xda-developers.com/mi-a1/themes/magisk-stock-camera-hal-custom-roms-t3900493)
-
 ## Features
 * MiuiCamera.apk from Mi A2 Pie stock ROM
 * Most features of Mi A2's stock Camera app
@@ -18,6 +15,10 @@ Magisk flashable of Xiaomi Mi A2's stock camera app for most Xiaomi devices.
 * Works on most Xiaomi devices
 
 ## Changelog
+### v4
+* Update to latest MiuiCamera from jasmine_sprout latest OTA
+* Take app icon from Mi A3's stock Camera app
+
 ### v3
 * Update to new module template
 

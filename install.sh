@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "    Mi A2 Stock Camera port    "
+  ui_print "    Mi A2 Stock Camera app     "
   ui_print "*******************************"
 }
 
